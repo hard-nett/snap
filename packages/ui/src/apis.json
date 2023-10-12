@@ -191,6 +191,11 @@
             "rpc": "https://tgrade-rpc.numia.xyz"
         },
         {
+            "chain_id": "morocco-1",
+            "rest": "https://terpnewtork-lcd.numia.xyz",
+            "rpc": "https://terpnewtork-rpc.numia.xyz"
+        },
+        {
             "chain_id": "akashnet-2",
             "rest": "https://akash-lcd.numia.xyz",
             "rpc": "https://akash-rpc.numia.xyz"
